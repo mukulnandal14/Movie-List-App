@@ -2,15 +2,8 @@
 
 A Flutter Application built to add/edit/delete/list movies that a user has watched.
 
-## Getting Started
+## Screen shots
+![Screenshot_2021-08-19-17-43-38-074_com gallery player](https://user-images.githubusercontent.com/55896189/130066768-f763aea5-1aa3-45f3-be08-7285da17a7bb.jpg)
+![Screenshot_2021-08-19-17-43-45-519_com gallery player](https://user-images.githubusercontent.com/55896189/130066822-01911447-b380-4b08-9265-fb7eb76d5b1a.jpg)
+![Screenshot_2021-08-19-17-44-03-602_com gallery player](https://user-images.githubusercontent.com/55896189/130066833-a23f003a-dc70-47b0-87be-30af7b767574.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
