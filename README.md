@@ -1,6 +1,6 @@
 # movie_list
 
-A new Flutter application.
+A Flutter Application built to add/edit/delete/list movies that a user has watched.
 
 ## Getting Started
 
